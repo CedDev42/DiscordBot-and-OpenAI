@@ -25,6 +25,6 @@ DISCORD_TOKEN = VOTRE_TOKEN_DISCORD_ICI
 
 Lancez le Bot
 
-** Licencence
+## Licencense
 
 MIT : https://opensource.org/licenses/MIT
