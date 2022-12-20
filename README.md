@@ -11,7 +11,7 @@ Sources:
   
   OpenAI docs : https://openai.com/api/
 
-## Installation :
+## Installation
 
 Clone le repository: git clone https://github.com/CedDev42/DiscordBot-and-OpenAI
 
