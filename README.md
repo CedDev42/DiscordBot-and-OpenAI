@@ -8,4 +8,5 @@ Limité à 1024 tokens dans cette exemple, a vous de baisser ou d'augmenter selo
 
 Sources:
   Discord.py docs : https://discordpy.readthedocs.io/en/stable/index.html
+  
   OpenAI docs : https://openai.com/api/
