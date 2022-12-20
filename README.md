@@ -17,7 +17,7 @@ Clone le repository: git clone https://github.com/CedDev42/DiscordBot-and-OpenAI
 
 Installer les dependances : pip install requirements.txt
 
-Crée un fichier .env qui contien les infos suivant :
+Crée un fichier .env qui contient les infos suivant :
 
 OPENAI_TOKEN = VOTRE_TOKEN_OPENAI_ICI
 
