@@ -13,7 +13,9 @@ Sources:
 
 ## Installation :
 
-Clone le repository
+Clone le repository: $ git clone https://github.com/CedDev42/DiscordBot-and-OpenAI
+
+Installer les dependances : $ pip install requirements.txt
 
 Crée un fichier .env qui contien les infos suivant :
 
@@ -21,4 +23,4 @@ OPENAI_TOKEN = VOTRE_TOKEN_OPENAI_ICI
 
 DISCORD_TOKEN = VOTRE_TOKEN_DISCORD_ICI
 
-Lancer le bot
+Lancez le Bot
