@@ -24,3 +24,7 @@ OPENAI_TOKEN = VOTRE_TOKEN_OPENAI_ICI
 DISCORD_TOKEN = VOTRE_TOKEN_DISCORD_ICI
 
 Lancez le Bot
+
+** Licencence
+
+MIT : https://opensource.org/licenses/MIT
