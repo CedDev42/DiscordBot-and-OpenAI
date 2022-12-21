@@ -34,7 +34,7 @@ MIT : https://opensource.org/licenses/MIT
 
 Richard Schwabe:
 
-Pour ces cours incroyables
+Pour ses cours incroyables
 
 https://www.youtube.com/@richardschwabe
 
@@ -42,6 +42,6 @@ https://github.com/richardschwabe/
 
 Graven - Développement
 
-Pour ces cours super cool
+Pour ses cours super cool
 
 https://www.youtube.com/@Gravenilvectuto
