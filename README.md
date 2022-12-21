@@ -28,3 +28,20 @@ Lancez le Bot
 ## Licencense
 
 MIT : https://opensource.org/licenses/MIT
+
+## Remerciements
+
+
+Richard Schwabe:
+
+Pour ces cours incroyables
+
+https://www.youtube.com/@richardschwabe
+
+https://github.com/richardschwabe/
+
+Graven - Développement
+
+Pour ces cours super cool
+
+https://www.youtube.com/@Gravenilvectuto
